@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: l_9_1_2_rest_template_2
+server:
+  port: 8081
